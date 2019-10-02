@@ -57,10 +57,10 @@ def twitter_search():
     x = 2
 
 
-consumer_key = "06QlinwWASFzknizf1Uz4fHJG"
-consumer_secret = "Jg5JjCxAsMmcRulTXyQbYmjCwQYuoofOxF28y2nCHACC6IOsoh"
-access_token = "1172200721585860613-PwUjwEuW8dgIZwKLIcxSCAZphbLe3p"
-access_token_secret = "wpOew1K0e93movJfOu4LnwKs1Yk95GBf39OxweeNHjfPx"
+consumer_key = "Use your key here"
+consumer_secret = "Use your key here"
+access_token = "Use your key here"
+access_token_secret = "Use your key here"
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
